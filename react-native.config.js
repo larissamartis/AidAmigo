@@ -1,0 +1,1 @@
+const assets = ["../Assets/Fonts"];
